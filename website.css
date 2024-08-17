@@ -1,0 +1,9 @@
+#logo {
+    float: left;
+}
+ul {
+    margin-left:1000px;
+}
+li {
+    display:inline;
+}
