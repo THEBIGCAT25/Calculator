@@ -1,9 +1,9 @@
 #logo {
-    float: left;
+    float: right;
 }
 ul {
-    margin-left:1000px;
+    margin-left:50px
 }
 li {
-    display:inline;
+    display:block;
 }
